@@ -1,1 +1,1 @@
-# Recupera-o-da-informa-o-web-scrapping-Liga-Magic
+# Recuperação da informação web scrapping Liga Magic
