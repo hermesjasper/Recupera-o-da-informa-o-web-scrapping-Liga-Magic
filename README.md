@@ -1,6 +1,6 @@
 # Recuperação da informação web scrapping Liga Magic
 
-O código '' é o corpo do trabalho.
+O código 'notebook_principal.ipynb' é o corpo do trabalho e tem como resultado o arquivo tabe.
 Atenção, antes de tentar rodar localmente tenha certeza que já possui os seguintes pacotes instalados em suas máquinas
 
 pip install selenium
